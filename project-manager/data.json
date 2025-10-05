@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "title": "Project 1",
+            "description": "Description 1",
+            "status": "planned",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "tasks": []
+        },
+        {
+            "id": 1,
+            "title": "Project 2",
+            "description": "Description 2",
+            "status": "in progress",
+            "start_date": "2023-01-01",
+            "end_date": "2023-12-31",
+            "tasks": []
+        }
+    ]
+}
