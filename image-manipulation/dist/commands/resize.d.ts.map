@@ -1,0 +1,1 @@
+{"version":3,"file":"resize.d.ts","sourceRoot":"","sources":["../../src/commands/resize.ts"],"names":[],"mappings":"AAIA,UAAU,aAAa;IACrB,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,EAAE,MAAM,CAAC;IACf,KAAK,CAAC,EAAE,MAAM,CAAC;IACf,MAAM,CAAC,EAAE,MAAM,CAAC;CACjB;AAED,eAAO,MAAM,MAAM,GAAU,SAAS,aAAa,kBA0ClD,CAAC"}

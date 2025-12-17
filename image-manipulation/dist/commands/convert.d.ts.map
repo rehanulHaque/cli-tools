@@ -1,0 +1,1 @@
+{"version":3,"file":"convert.d.ts","sourceRoot":"","sources":["../../src/commands/convert.ts"],"names":[],"mappings":"AACA,OAAc,EAAE,KAAK,UAAU,EAAE,MAAM,OAAO,CAAC;AAG/C,UAAU,aAAa;IACrB,KAAK,EAAE,MAAM,CAAC;IACd,MAAM,CAAC,EAAE,MAAM,CAAC;IAChB,MAAM,EAAE,MAAM,UAAU,CAAC;CAC1B;AAED,eAAO,MAAM,WAAW,GAAU,SAAS,aAAa,kBAkDvD,CAAC"}
